@@ -9,6 +9,7 @@ interface Employee {
 
 }
 
+// implementaçao e herança de clase para interface
 class Manager implements Employee{
 
     @Override
